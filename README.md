@@ -1,3 +1,3 @@
 # StarterPHP
 
-StarterPHP is a standardized, organized, object-oriented foundation for developing great Core/Vanilla PHP applications.
+StarterPHP is a lightweight, organized, object-oriented foundation for developing great MVC applications using Core/Vanilla PHP.
