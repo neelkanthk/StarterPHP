@@ -1,0 +1,13 @@
+{
+    "name": "neelkanthk/starterphp",
+    "description": "A standardized, organized, object-oriented foundation for developing great Core/Vanilla PHP applications.",
+    "type": "project",
+    "license": "GNU GPLv3",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "StarterPhp\\": "starterphp/",
+            "App\\": "app/"
+        }
+    }
+}
